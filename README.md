@@ -16,10 +16,11 @@ Arriba en esta página: botón verde **Code → Download ZIP**. Descomprime el a
 
 Necesitas Claude Code instalado y un plan pago de Claude. Si todavía no lo tienes, la lección de instalación está en el curso "Claude Code" de la academia.
 
-Elige una de estas dos formas:
+Elige una de estas formas:
 
-- **App de escritorio de Claude:** abre la pestaña **Code**, elige **Seleccionar carpeta** y busca la carpeta del kit.
+- **VS Code:** Archivo → Abrir carpeta → elige la carpeta del kit. Abre la terminal integrada y escribe `claude`.
 - **Terminal:** entra a la carpeta y escribe `claude`.
+- **App de escritorio de Claude:** abre la pestaña **Code**, elige **Seleccionar carpeta** y busca la carpeta del kit.
 
 ```bash
 cd ~/Documents/kit-inicial-aios
