@@ -10,7 +10,7 @@ Este kit acompaña el módulo gratis **"Tu primer segundo cerebro (AIOS)"** de [
 
 ## 📥 Descárgalo
 
-Arriba en esta página: botón verde **Code → Download ZIP**. Descomprime el archivo y guarda la carpeta donde quieras (por ejemplo, en Documentos).
+Arriba en esta página: botón verde **Code → Download ZIP**. Descomprime el archivo, renombra la carpeta a `kit-inicial-aios` (GitHub le agrega `-main` al nombre) y guárdala donde quieras, por ejemplo en Documentos.
 
 ## 🚀 Ábrelo en Claude Code
 
