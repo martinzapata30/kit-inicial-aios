@@ -1,0 +1,16 @@
+# Nunca compartas ni subas secretos ni credenciales
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+*-credentials.json
+gcp-oauth.keys.json
+
+# Conectores y configuración local (no se comparten)
+.claude/settings.local.json
+.mcp.json
+
+# Sistema
+.DS_Store
